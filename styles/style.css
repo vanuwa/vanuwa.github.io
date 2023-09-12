@@ -8,5 +8,11 @@ body {
 }
 
 body main h1.body-main-title {
-    font-size: 32px;
+    font-size: 36px;
+    color: #666;
+}
+
+body main h1.body-main-title span.accent {
+    color: #111;
+    font-weight: bolder;
 }
