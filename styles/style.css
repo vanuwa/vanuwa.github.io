@@ -1,5 +1,12 @@
 @import "reset.css";
 
 body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
     padding: 60px;
+    color: #333;
+    background-color: #efefef;
+}
+
+body main h1.body-main-title {
+    font-size: 18px;
 }
